@@ -1,4 +1,4 @@
-# Honours-Project-Final-Yesr-Project
+# Honours-Project-Final-Year-Project
 # Does Skill-Level Inference Improve Resume-to-Job Matching? An Evidence-Grounded Evaluation of Large Language Models
 
 This repository contains the implementation, configuration files, and evaluation code for my SOC10101 Honours Project in Computer Science (AI) at Edinburgh Napier University.
